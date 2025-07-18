@@ -55,7 +55,6 @@ EDA revealed correlations between churn and:
 - **Contract_Two year**: Strong negative churn predictor  
 - **Tenure**: Longer tenure → lower churn  
 - **MonthlyCharges**: Higher charges → slightly higher churn  
-- **Partner**: Having a partner slightly reduces churn (`coef ≈ +0.016`)
 
 ---
 
