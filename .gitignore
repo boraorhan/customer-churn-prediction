@@ -1,1 +1,12 @@
+# macOS
 .DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VSCode or other IDEs
+.vscode/
