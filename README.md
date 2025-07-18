@@ -58,13 +58,6 @@ EDA revealed correlations between churn and:
 
 ---
 
-## 🧠 Future Improvements
-- Try ensemble models (Random Forest, XGBoost)  
-- Add SHAP for feature explainability  
-- Include customer lifetime value (CLTV)
-
----
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Bora Orhan** 👋  
