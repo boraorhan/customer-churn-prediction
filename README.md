@@ -62,7 +62,6 @@ EDA revealed correlations between churn and:
 
 Hi, I'm **Bora Orhan** 👋  
 🎓 MSc in International Business with Data Analytics  
-🎓 BSc in Business Administration
 💼 Data Analyst Intern @ Victoria Solutions  
 📍 Birmingham, UK
 
